@@ -14,6 +14,7 @@ int main() {
     cout << "Ingresa el segundo numero: "; cin >> num2;
 
     total = suma(num1, num2);
+
     cout << "El resultado es " << total << endl;
     return 0;
 }
